@@ -24,11 +24,10 @@ I'm a passionate front-end developer crafting interactive and visually stunning 
 ---
 
 ### 🌍 Connect With Me:
-🌐 [Portfolio](#) *(Coming soon!)*  
-📷 [Dribbble](https://dribbble.com/yourprofile)  
-🎨 [Behance](https://www.behance.net/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourprofile)  
-🎥 [YouTube](https://www.youtube.com/@LazyCodwr)  
+🌐 [Portfolio](https://lazycodwr.netlify.app/)  
+📷 [Instagram](https://www.instagram.com/lazy_codwer/)  
+🎨 [LinkedIn](https://www.linkedin.com/in/dev-sameer-khan/)  
+🎥 [YouTube](https://www.youtube.com/@LazyCodwrr)  
 
 ---
 
