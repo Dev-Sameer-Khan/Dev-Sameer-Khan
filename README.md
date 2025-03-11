@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameer Khan! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Creative+Frontend+Developer;Awwwards+Level+Animator;3D+Web+Experiences+Explorer;Lazy+Codwr+Founder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Creative+Frontend+Developer;Awwwards+Level+Animator;3D+Web+Experiences+Explorer;)
 
 ---
 
@@ -21,6 +21,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/-R3F-8B5CF6?style=flat-square&logo=react&logoColor=white)
+![Lenis](https://img.shields.io/badge/-Lenis-FF4500?style=flat-square&logoColor=white)
 
 ---
 
