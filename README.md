@@ -1,19 +1,31 @@
-# Enhanced Three.js Developer Profile
+# About Me
 
-As a passionate creative developer specializing in Three.js, I bring immersive experiences to life through WebGL and 3D graphics. My work emphasizes interactivity, detail, and performance, catering to a diverse range of web applications—from captivating visualizations to intricate game environments.
+Hello! I'm Sameer, a passionate and creative developer specializing in Three.js. I love turning ideas into interactive visualizations that engage users and bring concepts to life.
 
-## Skills
-- **Three.js Expertise:** Extensive experience in crafting 3D models, animations, and scenes using Three.js.
-- **WebGL Proficiency:** Deep understanding of how WebGL works to optimize rendering and performance.
-- **Creative Problem Solving:** Ability to develop innovative solutions and interactive features that enhance user engagement.
-- **Collaboration:** Proven ability to work with cross-functional teams and stakeholders to deliver projects on time.
+# Technical Arsenal
 
-## Projects
-### 1. Interactive 3D Portfolio
-Showcase of various projects made with Three.js including demos that highlight technical skills and creativity.
+- **Languages:** JavaScript, HTML, CSS
+- **Libraries:** Three.js, React, D3.js
+- **Tools:** Git, Webpack, VS Code
+- **Platforms:** GitHub, CodePen
 
-### 2. Collaborative Game Environment
-Worked with a team to develop a multi-user game environment utilizing Three.js and WebSockets for real-time interactions.
+# Featured Projects
 
-## Contact
-Feel free to reach out via GitHub for any project collaborations or inquiries!
+- **3D Art Gallery:** An interactive art gallery built with Three.js showcasing 3D models.
+- **Virtual Reality Experience:** A VR project that allows users to explore a simulated environment using WebXR.
+
+# GitHub Analytics
+
+![Analytics](https://ghchart.rshah.org/Dev-Sameer-Khan)
+
+# Development Philosophy
+
+I believe that development should not only solve problems but also inspire creativity. My approach focuses on user experience, performance, and imaginative solutions.
+
+# Learning Path
+
+I am constantly learning new technologies and techniques to enhance my skills and stay updated with the latest trends in web development.
+
+# Contact Information
+
+Feel free to reach out via my [GitHub](https://github.com/Dev-Sameer-Khan) or [LinkedIn](https://www.linkedin.com/in/sameer-khan).
